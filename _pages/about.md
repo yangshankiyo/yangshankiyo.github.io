@@ -26,7 +26,8 @@ My main research areas include:
 - **Medical image analysis**  
 - **Deep Learning**  
 - **AI4S**  
-- And more...  
+- And more...
+  
 If you are interested in these research topics, feel free to contact me at [Email](mailto:uestc_yangshan@163.com) / [github](https://github.com/yangshankiyo) 
 
 
@@ -38,7 +39,7 @@ If you are interested in these research topics, feel free to contact me at [Emai
 DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiation Grade Prediction in Hepatocellular Carcinoma
 
 **Shan Yang**, Peng Chen, Wei Zhou, Yunbo Rao
-- The work proposes a multimodal fusion framework DFDGPnet based on multi-sequence MRI fusion, enabling end-to-end prediction of HCC differentiation.
+- The work proposes a multimodal fusion framework DFDGPnet based on multi-sequence MRI fusion, enabling end-to-end prediction of HCC grading differentiation.
 </div>
 </div>
 
@@ -58,8 +59,8 @@ DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiati
 
 
 # 📖 Educations
-- *2022.09 - 2026.06 (now)*, **Bachelor's Degree in Software Engineering**, *School of Information and Software Engineering, UESTC, Chengdu,Sichuan, China.
+- *2022.09 - 2026.06 (now)*, **Bachelor's Degree in Software Engineering**, School of Information and Software Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 
 # 💻 Research Experiences
-- *2025.02 - Present*, Font style transfer and harmonious reconstruction of calligraphy works, Associate Professor [**Zhouhui Lian**](https://www.icst.pku.edu.cn/zlian/), Tongji University, China.
-- *2024.10 - 2025.04*, Multimodal liver cancer lesion segmentation and differentiation prediction, Associate Professor [**Yunbo Rao**](http://www.raoyunbo.cn/), Tongji University, China.
+- *2025.02 - Present*, Font style transfer and harmonious reconstruction of calligraphy works, Associate Professor [**Zhouhui Lian**](https://www.icst.pku.edu.cn/zlian/), University of Electronic Science and Technology of China, China.
+- *2024.10 - 2025.04*, Multimodal liver cancer lesion segmentation and differentiation prediction, Associate Professor [**Yunbo Rao**](http://www.raoyunbo.cn/), Peking University, China.
