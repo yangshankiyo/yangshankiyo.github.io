@@ -17,16 +17,16 @@ redirect_from:
 
 I'm **Yang Shan** (CN name: **杨杉**), a third-year undergraduate student majoring in **Software Engineering** at the **School of Information and Software Engineering**, **University of Electronic Science and Technology of China**(UESTC). 
 
-I was advised by [Prof. Rao]([https://XXX.pku.edu.cn/](http://www.raoyunbo.cn/)) from [School of Information and Software Engineering](https://sise.uestc.edu.cn/) at UESTC,conducting research on medical image segmenation and Computer-aided diagnosis.I am currently working in [Prof. Lian'lab](https://www.icst.pku.edu.cn/zlian/) from [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/), Peking University，where I am focusing on Font style transfer and generative models.
+I was advised by [Prof. Rao](http://www.raoyunbo.cn/) from [School of Information and Software Engineering](https://sise.uestc.edu.cn/) at UESTC,conducting research on medical image segmenation and Computer-aided diagnosis.I am currently working in [Prof. Lian'lab](https://www.icst.pku.edu.cn/zlian/) from [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/), Peking University，where I am focusing on Font style transfer and generative models.
 
-My main research areas include:
+My interesting research areas include:
 - **Computer Vision**
 - **Medical image analysis**  
 - **Deep Learning**  
 - **AI4S**  
 - And more...
-  
-If you are interested in these research topics, feel free to contact me at [Email](mailto:uestc_yangshan@163.com) / [github](https://github.com/yangshankiyo) 
+
+[Email](mailto:uestc_yangshan@163.com) / [Github](https://github.com/yangshankiyo) 
 
 
 # 📝 Publications 
@@ -60,5 +60,5 @@ DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiati
 - *2022.09 - 2026.06 (now)*, **Bachelor's Degree in Software Engineering**, School of Information and Software Engineering, University of Electronic Science and Technology of China, Chengdu, China.
 
 # 💻 Research Experiences
-- *2025.02 - Present*, Font style transfer and harmonious reconstruction of calligraphy works, Associate Professor [**Zhouhui Lian**](https://www.icst.pku.edu.cn/zlian/), University of Electronic Science and Technology of China, China.
-- *2024.10 - 2025.04*, Multimodal liver cancer lesion segmentation and differentiation prediction, Associate Professor [**Yunbo Rao**](http://www.raoyunbo.cn/), Peking University, China.
+- *2025.02 - Present*, Font style transfer and harmonious reconstruction of calligraphy works, Associate Professor [**Zhouhui Lian**](https://www.icst.pku.edu.cn/zlian/), Peking University, China.
+- *2024.10 - 2025.04*, Multimodal liver cancer lesion segmentation and differentiation prediction, Associate Professor [**Yunbo Rao**](http://www.raoyunbo.cn/), University of Electronic Science and Technology of China, China.
