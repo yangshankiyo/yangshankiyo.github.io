@@ -17,42 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm **Yang Shan** (CN name: **杨杉**), a third-year undergraduate student majoring in **Software Engineering** at the **School of Information and Software Engineering**, **University of Electronic Science and Technology of China**(UESTC). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I was advised by [Prof. Rao]([https://XXX.pku.edu.cn/](http://www.raoyunbo.cn/)) from [School of Information and Software Engineering](https://sise.uestc.edu.cn/) at UESTC,conducting research on medical image segmenation and Computer-aided diagnosis.I am currently working in [Prof. Lian'lab](https://www.icst.pku.edu.cn/zlian/) from [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/), Peking University，where I am focusing on Font style transfer and generative models.
 
+My main research areas include:
+- **Computer Vision**
+- **Medical image analysis**  
+- **Deep Learning**  
+- **AI4S**  
+- And more...  
+If you are interested in these research topics, feel free to contact me at [Email](mailto:uestc_yangshan@163.com) / [github](https://github.com/yangshankiyo) 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiation Grade Prediction in Hepatocellular Carcinoma
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Shan Yang**, Peng Chen, Wei Zhou, Yunbo Rao
+- The work proposes a multimodal fusion framework DFDGPnet based on multi-sequence MRI fusion, enabling end-to-end prediction of HCC differentiation.
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10*: 🎖️ **National Scholarship**
+- *2024.10*: 🎖️ **Excellent First-Class Scholarship**
+- *2023.10*: 🎖️ **National Encouragement Scholarship**
+- *2023.10*: 🎖️ **Excellent First-Class Scholarship**
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06 (now)*, **Bachelor's Degree in Software Engineering**, *School of Information and Software Engineering, UESTC, Chengdu,Sichuan, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Research Experiences
+- *2025.02 - Present*, Font style transfer and harmonious reconstruction of calligraphy works, Associate Professor [**Zhouhui Lian**](https://www.icst.pku.edu.cn/zlian/), Tongji University, China.
+- *2024.10 - 2025.04*, Multimodal liver cancer lesion segmentation and differentiation prediction, Associate Professor [**Yunbo Rao**](http://www.raoyunbo.cn/), Tongji University, China.
