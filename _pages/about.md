@@ -47,6 +47,15 @@ DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiati
 - *2024.10*: 🎖️ **Excellent First-Class Scholarship**
 - *2023.10*: 🎖️ **National Encouragement Scholarship**
 - *2023.10*: 🎖️ **Excellent First-Class Scholarship**
+- *2025.01*: 🥈 **National Second Prize** - China Digital Cup AIGC Digital Content Creative Design Competition
+- *2024.06*: 🥉 **Third Prize Nationally** - China College Service Outsourcing Innovation and Entrepreneurship Competition
+- *2024.05*: 🥈 **Provincial Second Prize** - The 15th Blue Bridge Cup National Software and Information Technology Professional Talent Competition Sichuan Division Java Software Development University Group A
+- *2024.07*: 🥉 **Provincial Third Prize** - China College Computer Design Competition
+- *2024.07*: 🥉 **Provincial Third Prize** - China College  Computer Design Competition
+- *2023.03*: 🥉 **School-level Third Prize** - "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works competition
+- *2022.11*: 🎗️ **Excellence Award** - Sichuan and Chongqing University Students Information Literacy competition (School-level)
+- *2023.12*: **Completed Project** - School-level Innovation and Entrepreneurship Project - High-end equipment intelligent flaw detection and welding defect recognition algorithm
+
 
 # 📖 Educations
 - *2022.09 - 2026.06 (now)*, **Bachelor's Degree in Software Engineering**, *School of Information and Software Engineering, UESTC, Chengdu,Sichuan, China.
