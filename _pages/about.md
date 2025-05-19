@@ -15,8 +15,6 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
-
 I'm **Yang Shan** (CN name: **杨杉**), a third-year undergraduate student majoring in **Software Engineering** at the **School of Information and Software Engineering**, **University of Electronic Science and Technology of China**(UESTC). 
 
 I was advised by [Prof. Rao]([https://XXX.pku.edu.cn/](http://www.raoyunbo.cn/)) from [School of Information and Software Engineering](https://sise.uestc.edu.cn/) at UESTC,conducting research on medical image segmenation and Computer-aided diagnosis.I am currently working in [Prof. Lian'lab](https://www.icst.pku.edu.cn/zlian/) from [Wangxuan Institute of Computer Technology](https://www.icst.pku.edu.cn/), Peking University，where I am focusing on Font style transfer and generative models.
