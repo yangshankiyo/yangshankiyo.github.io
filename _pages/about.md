@@ -22,8 +22,7 @@ I was advised by [Prof. Rao](http://www.raoyunbo.cn/) from [School of Informatio
 My interesting research areas include:
 - **Computer Vision**
 - **Medical image analysis**  
-- **Deep Learning**  
-- **AI4S**  
+- **MLLMs**  
 - And more...
 
 [Email](mailto:uestc_yangshan@163.com) / [Github](https://github.com/yangshankiyo) 
@@ -36,7 +35,7 @@ My interesting research areas include:
 
 DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiation Grade Prediction in Hepatocellular Carcinoma
 
-**Shan Yang**, Peng Chen, Wei Zhou, Yunbo Rao
+**Shan Yang**, Wei Zhou, Yunbo Rao
 - The work proposes a multimodal fusion framework DFDGPnet based on multi-sequence MRI fusion, enabling end-to-end prediction of HCC grading differentiation.
 </div>
 </div>
@@ -53,7 +52,7 @@ DFDGPnet: Dual-Feature Synergistic Multimodal Fusion Framework for Differentiati
 - *2024.07*: 🥉 **Provincial Third Prize** - China College  Computer Design Competition
 - *2023.03*: 🥉 **School-level Third Prize** - "Challenge Cup" National College Students' Extracurricular Academic and Scientific Works competition
 - *2022.11*: 🎗️ **Excellence Award** - Sichuan and Chongqing University Students Information Literacy competition (School-level)
-- *2023.12*: **Completed Project** - School-level Innovation and Entrepreneurship Project - High-end equipment intelligent flaw detection and welding defect recognition algorithm
+- *2023.12*: **Completed Project** - School-level Innovation and Entrepreneurship Project
 
 
 # 📖 Educations
